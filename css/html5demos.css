@@ -3,6 +3,7 @@ body {
   background: rgb(237, 237, 236);
   margin: 0;
   padding: 0;
+  text-align:center;
 }
 
 section, header, footer {
